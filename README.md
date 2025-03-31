@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VipinRajB
 - 👀 I’m interested in Software Designing
-- 🌱 I’m currently learning Computer Engineering from Vistula university/
 - 📫 How to reach me @VipinRajB
 
 <!---
